@@ -1,4 +1,4 @@
-module util
+module github.com/fehu-asia/util
 
 go 1.14
 

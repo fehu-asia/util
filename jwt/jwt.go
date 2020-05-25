@@ -3,7 +3,6 @@ package jwt
 import (
 	"errors"
 	"github.com/dgrijalva/jwt-go"
-	"gopkg.in/square/go-jose.v2/jwt"
 )
 
 var (
